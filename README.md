@@ -1,2 +1,0 @@
-# imghost
-typora图床
